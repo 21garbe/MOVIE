@@ -1,0 +1,10 @@
+
+=== Fri Oct 14 10:54:41 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.5.0
+  com.unity.postprocessing@2.3.0
+  com.unity.toolchain.win-x86_64-linux-x86_64@0.1.21-preview
